@@ -37,6 +37,7 @@
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" />
 <br />
+<br />
 
 #
 
@@ -45,5 +46,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Katsu-Stv&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
 <img src="https://nirzak-streak-stats.vercel.app/?user=Katsu-Stv&theme=tokyonight&hide_border=false" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katsu-Stv&theme=tokyonight&hide_border=false&layout=compact" />
-<br />
 
